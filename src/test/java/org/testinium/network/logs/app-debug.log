@@ -1,0 +1,21 @@
+2022-11-04T14:13:20.567+0300 INFO Başlatılıyor.
+2022-11-04T14:13:20.571+0300 INFO Network URL'i kontrol ediliyor.
+2022-11-04T14:13:20.571+0300 INFO Network URL'i gelmektedir.
+2022-11-04T14:13:20.572+0300 INFO Arama kutusuna ceket yazdırıldı.
+2022-11-04T14:13:23.659+0300 INFO Ceket Aratılıyor.
+2022-11-04T14:13:35.478+0300 INFO Daha Fazla Ürün Göster Butonuna Gidiliyor.
+2022-11-04T14:13:35.542+0300 INFO Daha Fazla Ürün Göster Butonuna Tıklanıyor...
+2022-11-04T14:13:36.570+0300 INFO 2.sayfa URL'i kontrol ediliyor...
+2022-11-04T14:13:36.570+0300 INFO 2.sayfa URLine geçilmektedir.
+2022-11-04T14:13:36.570+0300 INFO 2.sayfada yukarı kaydırma işlemi gerçekleştiriliyor
+2022-11-04T14:13:37.853+0300 INFO İndirimi olan ürünler bulunuyor
+2022-11-04T14:13:37.874+0300 INFO İndirimi olan ürünler listeye ekleniyor.
+2022-11-04T14:13:37.930+0300 INFO İlk indirimli ürün seçiliyor.
+2022-11-04T14:13:41.591+0300 INFO İlk indirimli ürün tıklanıyor.
+2022-11-04T14:13:44.567+0300 INFO Ürünün beden değerleri kontrol ediliyor.
+2022-11-04T14:13:44.696+0300 INFO Ürünün beden değerleri ekleniyor.(2/6)
+2022-11-04T14:13:45.358+0300 INFO Ürünün beden değerleri ekleniyor.(3/6)
+2022-11-04T14:13:45.370+0300 INFO Ürünün beden değerleri ekleniyor.(4/6)
+2022-11-04T14:13:45.390+0300 INFO Toplamda3tane ürünün bedeni bulunmakta.
+2022-11-04T14:13:45.390+0300 INFO Rastgele bir beden seçiliyor.
+2022-11-04T14:13:47.606+0300 INFO Sepete ekleniyor.
