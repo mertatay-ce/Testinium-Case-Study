@@ -1,2 +1,2 @@
 # Testinium-Case-Study
-Testitinium Case Study Solution
+Testinium Case Study Solution
